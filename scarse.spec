@@ -11,7 +11,6 @@ License: GPL
 Url: http://www.scarse.org/
 Group: Graphics 
 Source: %{name}-%{rversion}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 Scarse is a free color calibration and management software package. It
