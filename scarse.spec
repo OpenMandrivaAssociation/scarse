@@ -11,6 +11,7 @@ License: GPL
 Url: http://www.scarse.org/
 Group: Graphics 
 Source: %{name}-%{rversion}.tar.bz2
+BuildRequires: tiff-devel
 
 %description
 Scarse is a free color calibration and management software package. It
