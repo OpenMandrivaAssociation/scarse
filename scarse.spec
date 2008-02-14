@@ -10,6 +10,7 @@ Release: %{release}
 License: GPL
 Url: http://www.scarse.org/
 Group: Graphics 
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source: %{name}-%{rversion}.tar.bz2
 BuildRequires: tiff-devel
 
