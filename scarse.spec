@@ -1,5 +1,5 @@
 %define rversion 0.3-alpha
-%define release  %mkrel 9
+%define release  %mkrel 10
 %define name scarse
 %define version 0.3_alpha
 
