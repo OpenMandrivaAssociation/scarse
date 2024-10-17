@@ -8,7 +8,7 @@ Name: %{name}
 Version: %{version}
 Release: %{release}
 License: GPL
-Url: http://www.scarse.org/
+Url: https://www.scarse.org/
 Group: Graphics 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source: %{name}-%{rversion}.tar.bz2
