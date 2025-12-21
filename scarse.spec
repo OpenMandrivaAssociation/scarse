@@ -12,6 +12,7 @@ Url: https://www.scarse.org/
 Group: Graphics 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source: %{name}-%{rversion}.tar.bz2
+BuildRequires:	make
 BuildRequires: tiff-devel
 
 %description
